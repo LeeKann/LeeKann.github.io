@@ -1,2 +1,1 @@
-const myHeading = document.querySelector('h1');
-myHeading.textContent = 'Hello world!';
+document.getElementById("demo").innerHTML = "Hello Dolly.";
